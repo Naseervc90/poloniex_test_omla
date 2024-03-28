@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "491622402812",
+    "project_id": "poloniex-omla-test",
+    "storage_bucket": "poloniex-omla-test.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:491622402812:android:53f00443eb6840fbca6579",
+        "android_client_info": {
+          "package_name": "com.example.poloniex_test"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfuwSUIW3k9A0MWy9TTpTgeOcbYrsTH8E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
